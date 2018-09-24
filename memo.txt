@@ -1,0 +1,62 @@
+
+ブログメモ
+
+
+基本機能（利用者）
+=========================
+
+■　管理人プロフィール　（＃　１画面）
+　→　管理人自己紹介
+　→　管理人SNSリンク・メールアドレス
+
+■　記事
+　→　全記事一覧　（＃　１画面）
+　→　記事詳細　　（＃　１画面）
+
+■　記事検索　　（＃　トップエリア機能）
+　　　→　記事検索　：　キーワード
+　　　→　記事検索　：　タグ
+　　　→　記事検索　：　日付指定：日別・月別・年別など
+
+
+
+URL一覧
+----------------
+■　トップページ
+http://www.ichikaworks.com/ichikaweb/
+
+■　ブログトップ(top)
+xx/blog
+index
+
+■　記事一覧(archive)
+xx/blog/archive
+blog-archive.jsp
+
+
+■　管理人プロフィール(about)
+xx/blog/about
+blog-about.jsp
+
+■　記事詳細(detail)
+xx/blog/#{記事ID}
+blog-detail.jsp
+
+■　記事分類(category)
+xx/blog/category/#{カテゴリーコード}
+blog-category.jsp
+
+※archive画面と似たようなもの
+
+
+
+基本機能（管理人）
+=========================
+・ 記事の追加・編集・削除
+
+
+
+ほしい機能
+=========================
+・ twitterの引用機能
+・
